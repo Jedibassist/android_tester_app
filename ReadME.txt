@@ -1,0 +1,1 @@
+This project was set up as an initial test of GitHub... seems to be working OK!!
